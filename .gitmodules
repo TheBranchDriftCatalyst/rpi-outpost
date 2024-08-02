@@ -1,3 +1,6 @@
 [submodule "@kasa-exporter"]
 	path = @kasa-exporter
 	url = https://github.com/TheBranchDriftCatalyst/kasa-exporter.git
+[submodule "@machines"]
+	path = @machines
+	url = git@github.com:TheBranchDriftCatalyst/machines.git
